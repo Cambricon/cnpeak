@@ -1,0 +1,11 @@
+tensorboardX 
+anyconfig 
+shapely
+pyclipper
+gevent
+gevent-websocket
+flask
+editdistance
+imgaug
+munch
+gdown

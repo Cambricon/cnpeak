@@ -1,0 +1,11 @@
+build
+data
+outputs
+models
+**/core.*
+plugin/plugin_infer_bak
+app/app_ocr/crnn-pytorch
+app/app_ocr/DB
+app/app_yolov5/yolov5
+.vscode
+.git

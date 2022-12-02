@@ -1,0 +1,9 @@
+{
+    "resize_size": [416, 416],
+    "center_crop_size": [416, 416],
+    "keep_aspect_ratio": true,
+    "color": "bgr",
+    "need_transpose": true,
+    "mean": [0,0,0],
+    "std": [255.0,255.0,255.0]
+}

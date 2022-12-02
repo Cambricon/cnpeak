@@ -1,0 +1,15 @@
+{
+    "archs": [{"mtp_372.41": [6]}],
+    "graph_shape_mutable": false,
+    "precision_config": {
+        "precision_mode": "qint8_mixed_float16"
+    },
+    "opt_config": {
+        "auto_fusion_enable": true,
+        "type64to32_conversion": true,
+        "conv_scale_fold": true
+    },
+    "debug_config": {
+        "fusion_enable": true
+    }
+}
